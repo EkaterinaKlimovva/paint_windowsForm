@@ -1,0 +1,33 @@
+D:\Учёба\Прога\6 сем\Практика 3\Практика 3\bin\Debug\Практика 3.exe.config
+D:\Учёба\Прога\6 сем\Практика 3\Практика 3\bin\Debug\Практика 3.exe
+D:\Учёба\Прога\6 сем\Практика 3\Практика 3\bin\Debug\Практика 3.pdb
+D:\Учёба\Прога\6 сем\Практика 3\Практика 3\obj\Debug\Практика 3.csproj.AssemblyReference.cache
+D:\Учёба\Прога\6 сем\Практика 3\Практика 3\obj\Debug\Практика_3.Form1.resources
+D:\Учёба\Прога\6 сем\Практика 3\Практика 3\obj\Debug\Практика_3.Properties.Resources.resources
+D:\Учёба\Прога\6 сем\Практика 3\Практика 3\obj\Debug\Практика 3.csproj.GenerateResource.cache
+D:\Учёба\Прога\6 сем\Практика 3\Практика 3\obj\Debug\Практика 3.csproj.CoreCompileInputs.cache
+D:\Учёба\Прога\6 сем\Практика 3\Практика 3\obj\Debug\Практика 3.exe
+D:\Учёба\Прога\6 сем\Практика 3\Практика 3\obj\Debug\Практика 3.pdb
+f:\Учёба\Прога\Практика 3\Практика 3\bin\Debug\Практика 3.exe.config
+f:\Учёба\Прога\Практика 3\Практика 3\bin\Debug\Практика 3.exe
+f:\Учёба\Прога\Практика 3\Практика 3\bin\Debug\Практика 3.pdb
+f:\Учёба\Прога\Практика 3\Практика 3\obj\Debug\Практика 3.csproj.AssemblyReference.cache
+f:\Учёба\Прога\Практика 3\Практика 3\obj\Debug\Практика_3.Form1.resources
+f:\Учёба\Прога\Практика 3\Практика 3\obj\Debug\Практика_3.Properties.Resources.resources
+f:\Учёба\Прога\Практика 3\Практика 3\obj\Debug\Практика 3.csproj.GenerateResource.cache
+f:\Учёба\Прога\Практика 3\Практика 3\obj\Debug\Практика 3.csproj.CoreCompileInputs.cache
+f:\Учёба\Прога\Практика 3\Практика 3\obj\Debug\Практика 3.exe
+f:\Учёба\Прога\Практика 3\Практика 3\obj\Debug\Практика 3.pdb
+E:\Учёба\Прога\Практика 3\Практика 3\bin\Debug\Практика 3.exe.config
+E:\Учёба\Прога\Практика 3\Практика 3\bin\Debug\Практика 3.exe
+E:\Учёба\Прога\Практика 3\Практика 3\bin\Debug\Практика 3.pdb
+E:\Учёба\Прога\Практика 3\Практика 3\obj\Debug\Практика 3.csproj.AssemblyReference.cache
+E:\Учёба\Прога\Практика 3\Практика 3\obj\Debug\Практика 3.csproj.SuggestedBindingRedirects.cache
+E:\Учёба\Прога\Практика 3\Практика 3\obj\Debug\Практика_3.Form1.resources
+E:\Учёба\Прога\Практика 3\Практика 3\obj\Debug\Практика_3.Properties.Resources.resources
+E:\Учёба\Прога\Практика 3\Практика 3\obj\Debug\Практика 3.csproj.GenerateResource.cache
+E:\Учёба\Прога\Практика 3\Практика 3\obj\Debug\Практика 3.csproj.CoreCompileInputs.cache
+E:\Учёба\Прога\Практика 3\Практика 3\obj\Debug\Практика 3.exe
+E:\Учёба\Прога\Практика 3\Практика 3\obj\Debug\Практика 3.pdb
+d:\Учёба\Прога\6 сем\Практика 3\Практика 3\obj\Debug\curves.Form2.resources
+D:\Учёба\Прога\6 сем\Практика 3\Практика 3\obj\Debug\Практика 3.csproj.SuggestedBindingRedirects.cache
